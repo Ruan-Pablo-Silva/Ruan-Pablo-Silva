@@ -1,7 +1,7 @@
 ### Hello! I am Ruan Pablo.
 
 - 🔭 My main goal is being a Full Satck Developer in the future.
-- 🌱 I’m currently learning Java, Spring, mySQL and the famous group of HTML, CSS, JS together with Angular
+- 🌱 I’m currently learning Java & Spring, mySQL and the famous group of HTML, CSS, JS together with Angular
 -  I’m looking for help with GdScript 
 - 📫 How to reach me: Gmail --> silvaruanpablo8@gmail.com  Or by LinkedIn --> https://www.linkedin.com/feed/
 
