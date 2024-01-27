@@ -1,7 +1,7 @@
 ### Hello! I am Ruan Pablo.
 
 - 🔭 My main goal is being a Full Satck Developer in the future.
-- 🌱 I’m currently learning Java & Spring, mySQL and the famous group of HTML, CSS, JS together with Angular
+- 🌱 I’m currently learning Java, Spring, mySQL and the famous group of HTML, CSS, JS together with Angular
 -  I’m looking for help with GdScript 
 - 📫 How to reach me: Gmail --> silvaruanpablo8@gmail.com  Or by LinkedIn --> https://www.linkedin.com/feed/
 
@@ -21,8 +21,6 @@
   <img align="center" alt="Ruan-mySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Ruan-Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
 </div>
-
-##
 
 <div> 
   <a href="https://www.linkedin.com/in/ruan-pablo-a80b28217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
